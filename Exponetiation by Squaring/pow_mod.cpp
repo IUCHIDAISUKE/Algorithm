@@ -35,3 +35,17 @@ ll pow_mod_binary(ll number, ll cnt, ll mod)
     }
     return res;
 }
+
+int main()
+{
+    int a = 10;
+    if (a == 10)
+    {
+        return;
+    }
+    a += 10;
+    if (a != 10)
+    {
+        a += 10;
+    }
+}
